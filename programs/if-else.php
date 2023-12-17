@@ -1,4 +1,5 @@
 <?php
+echo "<h1>If Else</h1>";
 
 $age = 18;
 

@@ -1,5 +1,4 @@
 <?php
-
 echo "<h1>Arrays</h1>";
 
 $arr = array(3,5,6,1);

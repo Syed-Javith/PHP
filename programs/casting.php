@@ -1,4 +1,5 @@
 <?php
+echo "<h1>Type Cating</h1>";
 
 $a = 5;       
 $b = 5.34;    

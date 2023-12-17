@@ -1,4 +1,5 @@
 <?php
+echo "<h1>Math</h1>";
 
 echo pi();
 echo "<br>";

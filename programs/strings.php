@@ -1,4 +1,5 @@
 <?php
+echo "<h1>String</h1>";
 
 $s = "Hello";
 

@@ -1,5 +1,4 @@
 <?php
-
 echo "<h1>Loops</h1>";
 
 $a=1;

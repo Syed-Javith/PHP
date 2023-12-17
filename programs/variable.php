@@ -1,4 +1,5 @@
 <?php
+echo "<h1>Variables</h1>";
 
 $x = 5;
 $y = 4;
